@@ -1,2 +1,2 @@
-# dio-desafio-jogo-da-velha
-Desafio de Projeto: Criando Jogo da Velha com HTML, CSS e JavaScript
+# Desafio de Projeto: Jogo da Velha
+Repositório criado para o Desafio de Projeto: Criando seu próprio jogo da velha com HTML e JavaScript da DIO.
